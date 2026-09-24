@@ -161,7 +161,7 @@
 <text x='720.95' y='248.16' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='93.00px' lengthAdjust='spacingAndGlyphs'>revise, retire, or approve</text>
 <text x='777.67' y='294.45' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='79.62px' lengthAdjust='spacingAndGlyphs'>Reconciled uses and</text>
 <text x='777.67' y='303.52' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='97.27px' lengthAdjust='spacingAndGlyphs'>comparative assignments</text>
-<text x='834.39' y='239.08' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='105.84px' lengthAdjust='spacingAndGlyphs'>Humans apply cautions and</text>
+<text x='834.39' y='239.08' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='72.48px' lengthAdjust='spacingAndGlyphs'>Apply cautions and</text>
 <text x='834.39' y='248.16' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='89.64px' lengthAdjust='spacingAndGlyphs'>make release decisions</text>
 <text x='891.11' y='294.45' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='79.61px' lengthAdjust='spacingAndGlyphs'>Reviewed tables and</text>
 <text x='891.11' y='303.52' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='94.42px' lengthAdjust='spacingAndGlyphs'>derived research outputs</text>
@@ -225,14 +225,14 @@
 <rect x='470.03' y='461.32' width='137.89' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7D0BE;' />
 <rect x='631.46' y='461.32' width='137.89' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7D0BE;' />
 <rect x='792.90' y='461.32' width='137.89' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #C7D0BE;' />
-<rect x='133.72' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
-<rect x='328.78' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
-<rect x='523.84' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
-<rect x='718.91' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
-<rect x='133.72' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
-<rect x='328.78' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
-<rect x='523.84' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
-<rect x='718.91' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
+<rect x='153.90' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
+<rect x='348.96' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
+<rect x='544.02' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
+<rect x='739.08' y='522.53' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #DDD3C6;' />
+<rect x='153.90' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
+<rect x='348.96' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
+<rect x='544.02' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
+<rect x='739.08' y='583.73' width='164.79' height='50.54' style='stroke-width: 1.02; stroke: #5F554E; stroke-linecap: butt; stroke-linejoin: miter; fill: #D5D1CB;' />
 <text x='197.95' y='409.64' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='36.81px' lengthAdjust='spacingAndGlyphs'>Sources</text>
 <text x='312.30' y='409.64' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='60.14px' lengthAdjust='spacingAndGlyphs'>Source_Units</text>
 <text x='426.65' y='409.64' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='67.41px' lengthAdjust='spacingAndGlyphs'>Atomic_Claims</text>
@@ -252,20 +252,20 @@
 <text x='700.41' y='485.31' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='35.27px' lengthAdjust='spacingAndGlyphs'>Lineage</text>
 <text x='861.84' y='475.46' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='46.14px' lengthAdjust='spacingAndGlyphs'>Modeling_</text>
 <text x='861.84' y='485.31' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='46.66px' lengthAdjust='spacingAndGlyphs'>Crosswalk</text>
-<text x='216.11' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='96.44px' lengthAdjust='spacingAndGlyphs'>Community_Context_</text>
-<text x='216.11' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='26.42px' lengthAdjust='spacingAndGlyphs'>CARE</text>
-<text x='411.18' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='51.84px' lengthAdjust='spacingAndGlyphs'>Controlled_</text>
-<text x='411.18' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='57.39px' lengthAdjust='spacingAndGlyphs'>Vocabularies</text>
-<text x='606.24' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='25.41px' lengthAdjust='spacingAndGlyphs'>Data_</text>
-<text x='606.24' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='45.62px' lengthAdjust='spacingAndGlyphs'>Dictionary</text>
-<text x='801.30' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='64.80px' lengthAdjust='spacingAndGlyphs'>Ethics_CARE_</text>
-<text x='801.30' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='59.11px' lengthAdjust='spacingAndGlyphs'>Reuse_Notes</text>
-<text x='216.11' y='602.79' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='40.41px' lengthAdjust='spacingAndGlyphs'>README</text>
-<text x='411.18' y='597.87' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='38.89px' lengthAdjust='spacingAndGlyphs'>Dataset_</text>
-<text x='411.18' y='607.72' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='41.47px' lengthAdjust='spacingAndGlyphs'>Overview</text>
-<text x='606.24' y='597.87' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='43.55px' lengthAdjust='spacingAndGlyphs'>Methods_</text>
-<text x='606.24' y='607.72' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='41.80px' lengthAdjust='spacingAndGlyphs'>Workflow</text>
-<text x='801.30' y='602.79' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='56.52px' lengthAdjust='spacingAndGlyphs'>Change_Log</text>
+<text x='236.29' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='96.44px' lengthAdjust='spacingAndGlyphs'>Community_Context_</text>
+<text x='236.29' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='26.42px' lengthAdjust='spacingAndGlyphs'>CARE</text>
+<text x='431.36' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='51.84px' lengthAdjust='spacingAndGlyphs'>Controlled_</text>
+<text x='431.36' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='57.39px' lengthAdjust='spacingAndGlyphs'>Vocabularies</text>
+<text x='626.42' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='25.41px' lengthAdjust='spacingAndGlyphs'>Data_</text>
+<text x='626.42' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='45.62px' lengthAdjust='spacingAndGlyphs'>Dictionary</text>
+<text x='821.48' y='536.66' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='64.80px' lengthAdjust='spacingAndGlyphs'>Ethics_CARE_</text>
+<text x='821.48' y='546.52' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='59.11px' lengthAdjust='spacingAndGlyphs'>Reuse_Notes</text>
+<text x='236.29' y='602.79' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='40.41px' lengthAdjust='spacingAndGlyphs'>README</text>
+<text x='431.36' y='597.87' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='38.89px' lengthAdjust='spacingAndGlyphs'>Dataset_</text>
+<text x='431.36' y='607.72' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='41.47px' lengthAdjust='spacingAndGlyphs'>Overview</text>
+<text x='626.42' y='597.87' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='43.55px' lengthAdjust='spacingAndGlyphs'>Methods_</text>
+<text x='626.42' y='607.72' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='41.80px' lengthAdjust='spacingAndGlyphs'>Workflow</text>
+<text x='821.48' y='602.79' text-anchor='middle' style='font-size: 9.33px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='56.52px' lengthAdjust='spacingAndGlyphs'>Change_Log</text>
 <text x='197.95' y='424.48' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='65.78px' lengthAdjust='spacingAndGlyphs'>Bibliographic and</text>
 <text x='197.95' y='433.56' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='70.55px' lengthAdjust='spacingAndGlyphs'>media provenance</text>
 <text x='312.30' y='424.48' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='76.80px' lengthAdjust='spacingAndGlyphs'>Processed sections,</text>
@@ -290,24 +290,24 @@
 <text x='700.41' y='504.31' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='93.44px' lengthAdjust='spacingAndGlyphs'>independence screening</text>
 <text x='861.84' y='495.23' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='69.12px' lengthAdjust='spacingAndGlyphs'>Qualitative model-</text>
 <text x='861.84' y='504.31' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='79.62px' lengthAdjust='spacingAndGlyphs'>informing descriptors</text>
-<text x='216.11' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>Community orientation</text>
-<text x='216.11' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='74.84px' lengthAdjust='spacingAndGlyphs'>and CARE cautions</text>
-<text x='411.18' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='79.61px' lengthAdjust='spacingAndGlyphs'>Controlled terms and</text>
-<text x='411.18' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='44.34px' lengthAdjust='spacingAndGlyphs'>usage rules</text>
-<text x='606.24' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='76.28px' lengthAdjust='spacingAndGlyphs'>Field definitions and</text>
-<text x='606.24' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='56.25px' lengthAdjust='spacingAndGlyphs'>allowed values</text>
-<text x='801.30' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='87.75px' lengthAdjust='spacingAndGlyphs'>Record-level sensitivity</text>
-<text x='801.30' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='75.33px' lengthAdjust='spacingAndGlyphs'>and reuse guidance</text>
-<text x='216.11' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='80.12px' lengthAdjust='spacingAndGlyphs'>Scope, cautions, and</text>
-<text x='216.11' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='44.34px' lengthAdjust='spacingAndGlyphs'>sheet guide</text>
-<text x='411.18' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='83.97px' lengthAdjust='spacingAndGlyphs'>Version, counts, uses,</text>
-<text x='411.18' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='48.64px' lengthAdjust='spacingAndGlyphs'>and cautions</text>
-<text x='606.24' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='72.00px' lengthAdjust='spacingAndGlyphs'>Evidence logic and</text>
-<text x='606.24' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='53.89px' lengthAdjust='spacingAndGlyphs'>AI supervision</text>
-<text x='801.30' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='72.97px' lengthAdjust='spacingAndGlyphs'>Version history and</text>
-<text x='801.30' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='66.75px' lengthAdjust='spacingAndGlyphs'>compilation notes</text>
-<text x='13.45' y='363.78' style='font-size: 17.00px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='507.28px' lengthAdjust='spacingAndGlyphs'>B. Original Version 2.0 workbook hierarchy and table purposes</text>
-<text x='13.45' y='38.01' style='font-size: 12.60px;fill: #2D2926; font-family: "Arial";' textLength='796.39px' lengthAdjust='spacingAndGlyphs'>Panel A traces the workflow from source selection to release; Panel B shows the table hierarchy of the original Version 2.0 formatted workbook.</text>
+<text x='236.29' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='85.80px' lengthAdjust='spacingAndGlyphs'>Community orientation</text>
+<text x='236.29' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='74.84px' lengthAdjust='spacingAndGlyphs'>and CARE cautions</text>
+<text x='431.36' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='79.61px' lengthAdjust='spacingAndGlyphs'>Controlled terms and</text>
+<text x='431.36' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='44.34px' lengthAdjust='spacingAndGlyphs'>usage rules</text>
+<text x='626.42' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='76.28px' lengthAdjust='spacingAndGlyphs'>Field definitions and</text>
+<text x='626.42' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='56.25px' lengthAdjust='spacingAndGlyphs'>allowed values</text>
+<text x='821.48' y='556.44' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='87.75px' lengthAdjust='spacingAndGlyphs'>Record-level sensitivity</text>
+<text x='821.48' y='565.51' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='75.33px' lengthAdjust='spacingAndGlyphs'>and reuse guidance</text>
+<text x='236.29' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='80.12px' lengthAdjust='spacingAndGlyphs'>Scope, cautions, and</text>
+<text x='236.29' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='44.34px' lengthAdjust='spacingAndGlyphs'>sheet guide</text>
+<text x='431.36' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='83.97px' lengthAdjust='spacingAndGlyphs'>Version, counts, uses,</text>
+<text x='431.36' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='48.64px' lengthAdjust='spacingAndGlyphs'>and cautions</text>
+<text x='626.42' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='72.00px' lengthAdjust='spacingAndGlyphs'>Evidence logic and</text>
+<text x='626.42' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='53.89px' lengthAdjust='spacingAndGlyphs'>AI supervision</text>
+<text x='821.48' y='617.64' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='72.97px' lengthAdjust='spacingAndGlyphs'>Version history and</text>
+<text x='821.48' y='626.71' text-anchor='middle' style='font-size: 8.59px;fill: #2D2926; font-family: "Arial";' textLength='66.75px' lengthAdjust='spacingAndGlyphs'>compilation notes</text>
+<text x='13.45' y='363.78' style='font-size: 17.00px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='324.97px' lengthAdjust='spacingAndGlyphs'>B. Dataset table hierarchy and purposes</text>
+<text x='13.45' y='38.01' style='font-size: 12.60px;fill: #2D2926; font-family: "Arial";' textLength='719.42px' lengthAdjust='spacingAndGlyphs'>Panel A traces the workflow from source selection to release; Panel B shows the table hierarchy retained in dataset version 2.0.9.</text>
 <text x='13.45' y='19.80' style='font-size: 20.00px; font-weight: bold;fill: #2D2926; font-family: "Arial";' textLength='675.81px' lengthAdjust='spacingAndGlyphs'>LLM-assisted, human-supervised development of the fire-use database</text>
 </g>
 </g>

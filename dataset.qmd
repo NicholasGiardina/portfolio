@@ -31,21 +31,21 @@ Throughout the creation and revision of the dataset, I used LLM assistance for s
 
 The dataset is organized as an Excel workbook with linked tables. Stable identifiers connect canonical fire uses to their supporting evidence, comparative categories, and model-facing descriptors, allowing readers to trace the connections between source material and the resulting records.
 
-Version 2.0 contains 1,442 atomic claims, 311 claim clusters, 171 provisional fire-use entries, and 51 canonical fire uses across its linked tables.
+Version 2.0.9 contains 1,442 atomic claims, 311 claim clusters, 171 provisional fire-use entries, and 51 canonical fire uses across its linked tables.
 
 ## Research Workflow and Workbook Structure
 
-This figure summarizes the LLM-assisted workflow I used to create and refine the dataset across its versions. It also shows the organization and purpose of the tables in the current Version 2.0 workbook.
+This figure summarizes the LLM-assisted workflow I used to create and refine the dataset across its versions. It also shows the organization and purpose of the tables in the current Version 2.0.9 workbook.
 
 ::: {.column-screen-inset}
 
-[![](images/figures/fire-database-workflow.svg){.static-preview .research-figure-preview fig-alt="Two-panel diagram showing the human-supervised and LLM-assisted dataset development workflow and the Version 2.0 workbook structure"}](images/figures/fire-database-workflow.svg){target="_blank"}
+[![](images/figures/fire-database-workflow.svg){.static-preview .research-figure-preview fig-alt="Two-panel diagram showing the human-supervised and LLM-assisted dataset development workflow and the Version 2.0.9 workbook structure"}](images/figures/fire-database-workflow.svg){target="_blank"}
 
 :::
 
 ::: {.figure-note}
 
-**Dataset:** Fire-use database Version 2.0, developed by Matthew Walls and Nicholas Giardina. **Figure:** Nicholas Giardina.
+**Dataset:** Fire-use database Version 2.0.9, developed by Matthew Walls and Nicholas Giardina. **Figure:** Nicholas Giardina.
 
 :::
 
@@ -75,7 +75,7 @@ The Modeling Crosswalk organizes 51 canonical fire uses into qualitative descrip
 
 ::: {.figure-note}
 
-**Source:** Fire-use database Version 2.0. **Figure:** Nicholas Giardina.
+**Source:** Fire-use database Version 2.0.9. **Figure:** Nicholas Giardina.
 
 :::
 
@@ -105,7 +105,7 @@ This worked example shows how CFU-007, Moose-browse and hunting-site burning, is
 
 ::: {.figure-note}
 
-**Record:** CFU-007, Moose-browse and hunting-site burning. **Source:** Fire-use database Version 2.0. **Figure:** Nicholas Giardina.
+**Record:** CFU-007, Moose-browse and hunting-site burning. **Source:** Fire-use database Version 2.0.9. **Figure:** Nicholas Giardina.
 
 :::
 
